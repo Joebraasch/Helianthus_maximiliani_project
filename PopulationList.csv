@@ -1,0 +1,20 @@
+﻿Type,Population,Population_ID,Final_Name,Location,Lat,Long,Notes
+Native_Remnant,A,ND-CAS,W-1,S of Agronomy Seed Farm,46.87575,-97.23206,200-500 plants.
+Native_Remnant,B,ND-BSP2,W-2,Southwest corner of Bluestem Prairie,46.85543,-96.48136,500+ plants.
+Native_Remnant,C,ND-STARR,W-3,East side IH-29 S of Starr Fireworks,46.72777,-96.8339,500+ plants.
+Native_Remnant,D,GAINOR_E,W-4,"Across from Boot Lake near Milnor, ND",46.24592,-97.40595,"200-500 plants. 1-14 N of center, 15-20 to S."
+Native_Remnant,E,KRAUSE,W-5,About 2.3 km E of Alkali Like (ND),46.02156,-97.34618,< 200 plants.
+Native_Remnant,F,SCHULER,W-6,About 1.5 km S of Lueck Lake (ND).,46.01766,-97.05374,< 200 plants.
+Producer,RG0426171,RG0426171,C-4,,,,SD Native - Millborn Seeds
+Producer,RMAX17,RMAX17,C-5,,,,ND Native - Millborn Seeds
+Producer,MSG (Morning Sky Greenery),ST17,C-1,,45.5895,-95.76,"Gathered 10/17/17, Stevens County, Minnesota, Benson WMA"
+Producer,AG (Agassiz),MaximilianSunflower,C-2,,46.8697,-96.8903,
+Producer,Prairie Rest (PrairieRestorations),PrairieRestorations,C-3,,44.40313,-99.99973,"The genetic origin is Hughes Co, SD - unfortunately we don't know where it was grown for production"
+ExSitu,PI 586893,PI 586893,ES-A,,47.43333333,-98.33333333,
+ExSitu,PI 586891,PI 586891,ES-B,,46.91666667,-97.18333333,
+ExSitu,PI 586892,PI 586892,ES-C,,47.43333333,-98.11666667,
+ExSitu,PI 586904,PI 586904,ES-D,,46.35,-98.33333333,
+ExSitu,PI 650011,PI650011,ES-E,,46.98333333,-96.75,
+ExSitu,PI 650010,PI 650010,ES-F,,46.65,-97.23333333,
+ExSitu,TLI-M,Land Istitute,S-1,,,,
+ExSitu,TLI ,Land Istitute,S-2,,,,
